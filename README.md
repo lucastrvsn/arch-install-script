@@ -1,4 +1,6 @@
-> My arch linux installation script.
+### arch linux installation script (I don't use it anymore)
+
+---
 
 # Tips (sway)
 
